@@ -1,0 +1,4 @@
+Prefix: '&b[StaffChat]'
+No Permission: '&9PERM -> &7You need to be an &6[MOD] &7to do this!'
+ChatFormat: '%prefix% &8%player%&3: &b%message%'
+Info: '#Yay!'

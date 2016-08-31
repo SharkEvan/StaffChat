@@ -1,0 +1,16 @@
+name: StaffChat
+version: 1.0
+main: me.Shark415473.staffchat.StaffChat1
+
+commands:
+    sc:
+      aliases: [staffchat]
+      description: STAFF CHAT
+
+permissions:
+    evan.staffchat:
+      description: Allows staffchat
+      default: false
+    evan.staffchat.recieve:
+      description: allows recieving of staff chat.
+      default: false
